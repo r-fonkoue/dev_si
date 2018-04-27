@@ -687,7 +687,6 @@ execute INSCRIRE_UTILISATEUR('Nom', 'Prenom', TO_DATE('2018/07/2 1:00:00', 'YYYY
 
 EXECUTE CREER_EQUIPE('zabouza');
 
-EXECUTE ENREGISTRER_TEMPS(264);
 /*
 Tests de fonctions
 */
